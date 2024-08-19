@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jeki+Gates!;" />
 </h1>
 
-<h3 align="center">a part-time Software Laboratory Assistant from Bina Nusantara University</h3>
+<h3 align="center">a full-time Software Laboratory Assistant from Bina Nusantara University</h3>
 
 <br/>
 
