@@ -12,7 +12,7 @@
  
  🔭 I’m currently working at **a university**
  
- 🌱 I’m currently learning **NextJS, Firebase, ReactJS**
+ 🌱 I’m currently learning **NextAuth, Vercel, Prisma**
 
  </div>
  
