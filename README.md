@@ -12,7 +12,7 @@
  
  🔭 I’m currently working at **a university**
  
- 🌱 I’m currently learning **Astro, Kotlin, Tailwind**
+ 🌱 I’m currently learning **Astro, Docker, Supabase**
 
  </div>
  
@@ -34,7 +34,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,eclipse,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=php,javascript,typescript,laravel,firebase,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=php,javascript,typescript,laravel,firebase,java,nextjs,mysql,docker,typescript,go,python" /><br>
 </div>
 
 <br/>
